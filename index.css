@@ -1,0 +1,16 @@
+input{
+    margin-bottom: 4px;
+    min-width: 400px;
+}
+button{
+    background-color: gold;
+    border:none;
+    display:block;
+    padding:10px 20px;
+    border-radius: 2px;
+    color: brown;
+    font-weight: bold;
+}
+ul{
+    list-style: none;
+}
